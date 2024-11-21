@@ -44,14 +44,9 @@ Here's what the Flowise workflow looks like:
 git clone https://github.com/yourusername/flowise-private-doc-chat-rag-blog.git
 cd flowise-private-doc-chat-rag-blog
 ```
-
 ### 2. Start the Ollama Server
-Make sure Docker is installed, then pull and run the Ollama container:
-```bash
-docker pull jmorganca/ollama
-docker run -d -p 11434:11434 jmorganca/ollama
-```
 
+```
 ### 3. Install and Start Flowise
 Set up Flowise to manage your chatflow:
 ```bash
