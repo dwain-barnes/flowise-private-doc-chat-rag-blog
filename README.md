@@ -1,8 +1,10 @@
 # Chat Privately with Your Documents: Local RAG with Flowise
 
+![Logo](RAG.png)
+
 Hi there! 👋 Welcome to **flowise-private-doc-chat-rag-blog**, where we explore how to build a fully private, conversational interface for your documents. Using **Flowise**, open-source LLMs, and **retrieval-augmented generation (RAG)**, you can chat with your documents locally—no internet connection required.
 
-This setup is perfect for those who value **data privacy** but still want the benefits of interacting with their documents using cutting-edge AI.
+This setup is perfect for those who value **data privacy** but still want the benefits of interacting with their documents using AI. This guide is part of a blog series, read it [here](https://www.gpt-labs.ai/post/chat-privately-with-your-documents-local-rag-with-flowise) 
 
 ---
 
@@ -28,7 +30,7 @@ Here's a quick breakdown of the workflow:
 5. **💬 Conversational Chain:** A retrieval-based Q&A system connects with a local LLM for seamless, context-aware conversations.
 
 Here's what the Flowise workflow looks like:
-![Workflow Diagram](./workflow.png)
+![Workflow Diagram](workflow.png)
 
 ---
 
