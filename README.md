@@ -43,7 +43,7 @@ Here's what the Flowise workflow looks like:
 
 ### 1. Clone This Repository
 ```bash
-git clone https://github.com/yourusername/flowise-private-doc-chat-rag-blog.git
+git clone https://github.com/dwain-barnes/flowise-private-doc-chat-rag-blog.git
 cd flowise-private-doc-chat-rag-blog
 ```
 ### 2. Start the Ollama Server
