@@ -59,7 +59,7 @@ Visit `http://localhost:3000` to open the Flowise dashboard.
 
 ### 4. Import the Chatflow
 1. Navigate to **Chatflows** in Flowise.
-2. Import the file `Chatbot1 Chatflow.json` from this repository.
+2. Import the file `rag.json` from this repository.
 3. Connect your nodes and adjust parameters (like chunk size) as needed.
 
 ### 5. Test It Out
@@ -90,7 +90,7 @@ I’ve always wanted a way to interact with sensitive documents securely, withou
 Ollama lets you host open-source LLMs locally, and Flowise makes it super easy to create workflows for document processing. Together, they’re a perfect match for private RAG systems.
 
 ### 2. What models are supported?
-This project uses **Llama 2** via Ollama, but you can switch to other compatible models.
+This project uses **Llama 3.2 3B** via Ollama, but you can switch to other models.
 
 ### 3. Can I use this on Windows/Mac/Linux?
 Yes! As long as you have Docker and Node.js installed, this works on any major operating system.
@@ -105,8 +105,7 @@ This is a personal project, but I’d love for others to contribute! If you’ve
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
+This project is licensed under the Apache License.
 ---
 
 ### Acknowledgments
